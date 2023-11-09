@@ -1,9 +1,9 @@
 +++
-title = 'New York Times: “We’ve updated our terms”'
+title = 'New York Times: "We’ve updated our terms"'
 date = 2023-11-07T20:15:56-05:00
 +++
 
-Mel tells me, “trust me you have to try Connections today”. I'm not a huge fan of [Connections](https://www.nytimes.com/games/connections) as a game, but I open it up. This is what I see:
+Mel tells me, “trust me, you have to try Connections today”. I'm not a huge fan of [Connections](https://www.nytimes.com/games/connections) as a game, but I opened it up. This is what I see:
 
 <img src="/nyt-updated-terms-connections.png" alt="Terms" width="300">
 

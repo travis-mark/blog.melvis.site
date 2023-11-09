@@ -1,0 +1,7 @@
+/* Font styles */
+* { font-family: 'Courier New', Courier, monospace;}
+.headline { font-size: 17px; font-weight: 700; }
+.caption { font-size: 17px; }
+
+/* Layout */
+body { max-width: 72ch; }
